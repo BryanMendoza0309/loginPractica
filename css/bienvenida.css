@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(90deg, #BF4222, #E30F87);
+    padding: 20px;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+
+.ctn-welcome{
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    background: white;
+    border-radius: 20px;
+}
+
+.title-welcome{
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 20px;   
+}
+
+.title-welcome b{
+    color: #E30F87;
+}
+
+.close-sesion{
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    margin-top: 40px;
+    background: linear-gradient(90deg, #BF4222, #E30F87);
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
